@@ -1,4 +1,4 @@
-#Setting up the repo.
+# Setting up the repo.
 
 Generate an ssh key pair if you have not already using the command `ssh-keygen`
 
