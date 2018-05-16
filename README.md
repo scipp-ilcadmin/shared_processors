@@ -4,7 +4,7 @@ This is version controlled history, where each branch represents a module of cod
 
 In order to setup the repo, there are only 3 steps. Setting up keys, cloning the repo, preparing your first branch.
 
-# Setting up keys
+## Setting up keys
 
 Generate an ssh key pair if you have not already using the command `ssh-keygen`
 
@@ -18,7 +18,7 @@ Paste the output form  `cat ~/.ssh/id_rsa.pub` into your github account; this co
 Once this is done and you are a collaborator with this repo by contacting the admin you can clone the repo using ssh keys.
 
 
-# Cloning the repo
+## Cloning the repo
 
 
 Clone the repo in the folder `~/ilc_main/scipp_ilcsoft_framework/src/` using the command `git clone git@github.com:scipp-ilcadmin/shared_processors.git`.
@@ -28,7 +28,7 @@ Clone the repo in the folder `~/ilc_main/scipp_ilcsoft_framework/src/` using the
 
 Once cloned you need to make a bracnch so you don't mess up the collective repo.
 
-# Preparing your branch
+## Preparing your branch
 
 To make a branch run `git checkout -b your_name`.
 
